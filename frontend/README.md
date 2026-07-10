@@ -364,7 +364,7 @@ Auto Approve: fraud score < 20% AND item is damaged (legitimate damage claim). M
 ## About
 
 **Aditi Raj**  
-Final Year B.Tech CSE (AI/ML) · VIT Bhopal · CGPA 8.1  
+Final Year B.Tech CSE (AI/ML) ·   
 
 Solved 250+ DSA problems (LeetCode + GFG)
 
