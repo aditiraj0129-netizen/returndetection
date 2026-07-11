@@ -93,11 +93,13 @@ The original project, now a module. E-commerce operations teams can submit custo
 ```
 
 ---
-<img width="360" height="450" alt="Screenshot 2026-07-10 at 9 08 13 PM" src="https://github.com/user-attachments/assets/5f62345b-ccbb-465e-97ea-82a563772c2e" />
+<img width="460" height="450" alt="Screenshot 2026-07-10 at 9 08 13 PM" src="https://github.com/user-attachments/assets/5f62345b-ccbb-465e-97ea-82a563772c2e" />
 <img width="480" height="450" alt="Screenshot 2026-07-10 at 9 09 24 PM" src="https://github.com/user-attachments/assets/539d5f2a-973c-45ca-81fc-1ef13db54c36" />
 <img width="472" height="450" alt="Screenshot 2026-07-10 at 9 10 12 PM" src="https://github.com/user-attachments/assets/f74a65f4-6f5e-4cc5-ae66-bc2827be9e47" />
 <img width="333" height="450" alt="Screenshot 2026-07-11 at 11 38 30 AM" src="https://github.com/user-attachments/assets/85dab82d-0dab-4389-b21b-1cdc6ef9fe69" />
-<img width="364" height="450" alt="Screenshot 2026-07-10 at 9 10 49 PM" src="https://github.com/user-attachments/assets/a7ebc0db-81e5-4c3c-92c7-dcdbb23198d5" />
+ 
+<img width="148035" height="426" alt="Screenshot 2026-07-11 at 11 44 03 AM" src="https://github.com/user-attachments/assets/66326fea-09d5-44cd-a8ed-0620816ba49d" />
+
 
 
 
