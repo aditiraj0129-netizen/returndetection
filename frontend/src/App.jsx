@@ -962,7 +962,7 @@ export default function App() {
     </main>
 
     <footer style={{ borderTop:'1px solid #e2e8f0', background:'#fff', marginTop:48, padding:'24px', textAlign:'center' }}>
-      <p style={{ fontSize:13, color:'#94a3b8' }}>🛡️ <span style={{ fontWeight:700, color:'#4f46e5' }}>ShieldMart</span> · Built with ❤️ by <span style={{ fontWeight:800, color:'#7c3aed' }}>Aditi Raj</span> · </p>
+      <p style={{ fontSize:13, color:'#94a3b8' }}>🛡️ <span style={{ fontWeight:700, color:'#4f46e5' }}>ShieldMart</span> ·   </p>
       <p style={{ fontSize:11, color:'#cbd5e1', marginTop:6 }}>XGBoost · FastAPI · React · PostgreSQL · Razorpay · Computer Vision · Docker</p>
     </footer>
 
